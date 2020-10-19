@@ -120,3 +120,6 @@ listen on port 9000 and run as a regular user:
 ```
 $ wakeupbr -l 10.0.0.10:9000 -o 172.16.0.10
 ```
+
+# Docker
+To start a docker container, run `./run-docker.sh`.
